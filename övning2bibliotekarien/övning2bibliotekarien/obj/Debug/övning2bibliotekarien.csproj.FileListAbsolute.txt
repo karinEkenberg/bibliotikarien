@@ -1,0 +1,8 @@
+C:\Users\zirko\source\repos\övning2bibliotekarien\övning2bibliotekarien\bin\Debug\övning2bibliotekarien.exe.config
+C:\Users\zirko\source\repos\övning2bibliotekarien\övning2bibliotekarien\bin\Debug\övning2bibliotekarien.exe
+C:\Users\zirko\source\repos\övning2bibliotekarien\övning2bibliotekarien\bin\Debug\övning2bibliotekarien.pdb
+C:\Users\zirko\source\repos\övning2bibliotekarien\övning2bibliotekarien\obj\Debug\övning2bibliotekarien.csproj.AssemblyReference.cache
+C:\Users\zirko\source\repos\övning2bibliotekarien\övning2bibliotekarien\obj\Debug\övning2bibliotekarien.csproj.SuggestedBindingRedirects.cache
+C:\Users\zirko\source\repos\övning2bibliotekarien\övning2bibliotekarien\obj\Debug\övning2bibliotekarien.csproj.CoreCompileInputs.cache
+C:\Users\zirko\source\repos\övning2bibliotekarien\övning2bibliotekarien\obj\Debug\övning2bibliotekarien.exe
+C:\Users\zirko\source\repos\övning2bibliotekarien\övning2bibliotekarien\obj\Debug\övning2bibliotekarien.pdb
